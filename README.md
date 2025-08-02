@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered Smart Personal Finance Assistant App and Smart File Vault.<br>🤝 I’m looking to collaborate on open-source web development and AI/ML projects.<br>🤲 I’m looking for help with advanced backend optimization and scalable database design.<br>🌱 I’m currently learning Django, JavaScript (full), and advanced C++ DSA.<br>💬 Ask me about full-stack development, AI integrations, and DSA in C++.<br>⚡ Fun fact: I can debug faster than I can cook instant noodles! 🍜
+🔭 I’m currently working on AI-powered Smart Personal Finance Assistant App and Smart File Vault.<br>🤝 I’m looking to collaborate on open-source web development and AI/ML projects.<br>🤲 I’m looking for help with advanced backend optimization and scalable database design.<br>🌱 I’m currently learning JavaScript (full), and advanced C++ DSA.<br>💬 Ask me about full-stack development, and DSA in C++.<br>⚡ Fun fact: I can debug faster than I can cook instant noodles! 🍜
 
 
 ## 🌐 Socials:
